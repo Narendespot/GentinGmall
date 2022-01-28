@@ -11,8 +11,8 @@ from base64 import b64decode,b64encode
 from datetime import date
 
 
-expirydate = datetime.date(2021, 9, 24)
-#expirydate = datetime.date(2021, 8, 30)
+expirydate = datetime.date(2022, 9, 24)
+#expirydate = datetime.date(2022, 8, 30)
 today=date.today()
 green="\033[3;32m"
 neon="\033[3;36m"
@@ -30,7 +30,7 @@ def hero():
             for c in itertools.cycle(['|', '/', '-', '\\']) :
                 if done:
                     break
-                sys.stdout.write('\rhacking in the parity server for next colour--------- ' + c)
+                sys.stdout.write('\rhacking in the Genting server for next colour--------- ' + c)
                 sys.stdout.flush()
                 time.sleep(0.1)
             sys.stdout.write('\rDone!     ')
@@ -39,7 +39,7 @@ def hero():
         t.start()
 
         #long process here
-        time.sleep(20)
+        time.sleep(10)
         done = True
 
     def chalo1():
@@ -58,7 +58,7 @@ def hero():
         t.start()
 
         #long process here
-        time.sleep(20)
+        time.sleep(10)
         done = True
 
     def clear():
@@ -76,13 +76,13 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet RXCEV2.1|lolcat'
+    banner='figlet GentingMall|lolcat'
     numbers=[]
     while(y):
         clear()
         system(banner)
-        print(f"{red}Contact me on telegram @smsn_knt")
-        print(f"{yellow}Enter ",newperiod," Parity Price :")
+        print(f"{red}Contact me on telegram @IDFCMONEY")
+        print(f"{yellow}Enter ",newperiod," Emerd Price :")
         current=input()
         current=int(current)
         chalo()
@@ -114,7 +114,7 @@ def hero():
             system('figlet Thank you!!')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+            sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
             #print(numbers)
   
 
@@ -144,10 +144,10 @@ if(expirydate>today):
             period=360
             hero()
     else:
-        banner='figlet RXCEV2.1'
+        banner='figlet GentingMall|lolcat'
         system(banner)
-        #print(f"{red}"Hi!! Thanks for buying the hack")
-        print("Hi! thanks for trying our DEMO")
+        print(f"{red}"Hi!! Thanks for buying the hack")
+        #print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
         #print("31st Aug 2021, 11:00 AM- 11:30 AM")
         #print("31st Aug 2021, 02:00 PM- 02:30 PM")
@@ -155,7 +155,7 @@ if(expirydate>today):
         #print("31st Aug 2021, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on telegram @smsn_knt ")
+        print(" admin on telegram @IDFCMONEY ")
 
 
 
@@ -167,13 +167,13 @@ else:
         # for mac and linux(here, os.name is 'posix')
         else:
             _ = system('clear')
-    code="NBHI85"
-    code1="NBHGFE23"
-    code2="MKAAHDBD4"
-    test="BHGFV43"
-    night="NICMJY13"
-    nextday="NNMKJHFD"
-    banner='figlet RXCEV2.1|lolcat'
+    code="SKBhai"
+    code1="LIFEISLOL"
+    code2="SUCK"
+    test="PROFIT"
+    night="GENTING02"
+    nextday="PLEASEW8"
+    banner='figlet GentingMall|lolcat'
     rava=0
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
@@ -190,32 +190,57 @@ else:
     elif(now>Final and now<Finalend):
             rava=410
     system(banner)
-    print(f"{neon}*--------*--------*-------*---------*---------*")
-    print("Your hack has expired--- Please contact")
-    print(" on telegram ----@smsn_knt for activating")
-    print("     Plan Amount --    Total limit " )
-    print(" 1.  1000 INR -------  1 Day (30 Games")
-    print(" 2.  2500 INR -------  3 Days(90 Games")
-    print(" 2.  5000 INR ------- 7 Days(210 Games")
-    print("*---------*----------*-------------*----------*")
-    print("If you need any discount contact me")
-    print("Beware of fraudsters!!!")
+    system(banner)
+    print(f"{red}*---------*----------*-------------*----------*")
+    print(f"{yellow}If The Above Text Is Not Visible Zoom Out")
+    print("Your Screen")
+    print(f"{green}To Know The Password --- Contact me")
+    print(f"{green}on telegram ----@IDFCMONEY ")
+    print(f"{voilet} Recharge Amount :        Total limit " )
+    print(" 1.     5000 INR -------  1 Day (30 Games)")
+    print(" 2.   10,000 INR -------  7 Days(2100 Games)")
+    print(" 3.   50,000 INR -------  Month(6 Months)")
+    print(f"{green}You Can Recharge And Activate Your Hack Directly")
+    print("By Paying Here To Me To the Below Upi Id")
+    print(f"{red}Upi-1: {green}  -----  {yellow}  N/A")
+    print(f"{red}Upi-2: {green}  -----  {yellow}  N/A")
+    print(f"{neon}*---------*----------*--------*---------*--------*")
+    print(f"{green}Your custom hack can be made request from us.")
+    print(f"{red}Beware of fraudsters!!!")
     while(True):
-        print("My banking name is SUNNY KUMAR")
+        print(f"{neon}*--------*--------*-------*---------*---------*")
+        print("Hi, IDFC Here")
+        print("If you send Payment to any other Person On Telegram ,")
+        print(f"{purple}Then I'm Damn Sure That")
+        print(f" IT IS A {red}SCAMMM")
+        print(f"{purple}Don't Believe Any One Who Says ")
+        print(f"I Have {yellow}Hack {purple}And Sends You Only ")
+        print(f"{green}Fake {purple}ScreenShots Or Edited Ones")
         print(f"{red}After You Pay to The UPI ID above You Can Automatically")
         print(f"Activate Hack By Entering The Correct ")
         print(f"{green}(UTR) Or Upi Reference Number") 
         print(f"{neon}To Activate The Hack")
-        print(f"If It Does'nt Open Contact Me On Telegram {yellow}@smsn_knt")
+        print(f"If It Does'nt Open Contact Me On Telegram {yellow}@IDFCMONEY")
         print(f"{neon}*---------*----------*-------------*----------*")
-        print("payhere--- UPI : ")
-        print(f"{yellow}UPI1 : sunny.9132@ybl")
-        print("UPI2 : sunnyk16@fbl")
-        print("If you have already paid to above UPI")
-        print(f"{neon}Enter Your Activation Code Or Upi Reference for Opening Hack")
+        print(f"{green}This Update Contains")
+        print(f"{neon}Automatic Recharge Updated")
+        print(f"{purple}Colourful And User Friendly InterFace Updates")
+        print(f"{green}And Much More..., Play And EnJoy Earning")
+        print(f"{red}And A Warning Play The Amount Specified By Hack")
+        print("If You Play More And Loss We Are Not Responsible")
+        print(f"{neon}*---------*----------*-------------*----------*")
+        print(f"{green}Things Under Maintenence")
+        print(f"{yellow}Colour Combination And Emoji syncing")
+        print(f"{green}Please Ignore Play Timings They Are Under Maintenence")
+        print(f"{yellow}All These Will Be Updated In Upcomming Updates")
+        print(f"{red}*---------*----------*-------------*----------*")
+        
+        
+        print(f"{neon}Enter Your Password Or Upi Reference for Opening Hack ")
         bhai=input(": ")
         if(bhai==code or bhai==test or bhai==code1 or bhai==code2):
             clear()
+            banner='figlet GentingMall|lolcat'
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
             print("19th Jan 2021, 02:30 PM- 03:00 PM")
@@ -225,10 +250,10 @@ else:
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
             print(f"{neon}On Telegram {red}@IDFCMONEY")
             print("wait.... starting....")
-            time.sleep(20)
+            time.sleep(10)
             period=rava
             hero()
-            #print("Today Server is off RXCE try tomorrow ")
+            #print("Today Server is off Genting try tomorrow ")
             #rint(" of town, Tomorrow It will work as usual.")
             #print(" Thank You!!")
             #rint("To all the weekly members next week, cost will be  ")
