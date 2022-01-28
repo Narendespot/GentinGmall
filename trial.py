@@ -239,8 +239,7 @@ else:
         bhai=input(": ")
         if(bhai==code or bhai==test or bhai==code1 or bhai==code2):
             clear()
-            banner='figlet GentingMall|lolcat'
-            print("You have bought hack for 1 day")
+            system(banner)
             print(f"{purple}---------------Your play time----------------")
             print("19th Jan 2021, 02:30 PM- 03:00 PM")
             print("19th Jan 2021, 05:30 PM- 06:00 PM")
@@ -261,7 +260,6 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         elif(bhai==nextday):
             clear()
-            banner='figlet GentingMall|lolcat'
             system(banner)
             print("----------Your play time-----------")
             print("8th-14th Dec 2021, 02:30 PM- 03:00 PM")
@@ -270,14 +268,14 @@ else:
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("wait.... starting....")
-            time.sleep(20)
+            time.sleep(10)
             period=rava
             hero()
             #period("Sorry too many people(>20) using hack in same time ")
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         elif(bhai==night):
             clear()
-            banner='figlet GentingMall|lolcat'
+            system(banner)
             print("----------Your play time-----------")
             print("9th Dec 2021,  08:30 PM- 09:00 PM")
             print("10th Dec 2021, 08:30 PM- 09:00 PM")
