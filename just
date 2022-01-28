@@ -5,6 +5,6 @@ pkg install figlet -y
 apt install ruby -y
 gem install lolcat
 rm trial.py trial*
-wget -q "https://raw.githubusercontent.com/ColonelIDFC/GentinGmall/main/trial"
+wget -q "https://raw.githubusercontent.com/ColonelIDFC/GentinGmall/main/trial.py"
 clear
 python trial.py
