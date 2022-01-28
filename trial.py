@@ -146,7 +146,7 @@ if(expirydate>today):
     else:
         banner='figlet GentingMall|lolcat'
         system(banner)
-        print(f"{red}"Hi!! Thanks for buying the hack")
+        print(f"{red}Hi!! Thanks for buying the hack")
         #print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
         #print("31st Aug 2021, 11:00 AM- 11:30 AM")
