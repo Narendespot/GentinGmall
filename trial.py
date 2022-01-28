@@ -190,7 +190,6 @@ else:
     elif(now>Final and now<Finalend):
             rava=410
     system(banner)
-    system(banner)
     print(f"{red}*---------*----------*-------------*----------*")
     print(f"{yellow}If The Above Text Is Not Visible Zoom Out")
     print("Your Screen")
