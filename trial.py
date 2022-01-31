@@ -9,7 +9,8 @@ import sys
 import datetime
 from base64 import b64decode,b64encode
 from datetime import date
-
+######           Password = Gentle        #######
+######Don't Copy Paste Without Credits Dude#######
 
 expirydate = datetime.date(2021, 9, 24)
 #expirydate = datetime.date(2021, 8, 30)
@@ -30,7 +31,7 @@ def hero():
             for c in itertools.cycle(['|', '/', '-', '\\']) :
                 if done:
                     break
-                sys.stdout.write('\rhacking in the Genting server for next colour--------- ' + c)
+                sys.stdout.write('\rHacking in the Genting server for next colour--------- ' + c)
                 sys.stdout.flush()
                 time.sleep(0.1)
             sys.stdout.write('\rDone!     ')
@@ -82,39 +83,39 @@ def hero():
         clear()
         system(banner)
         print(f"{red}Contact me on telegram @IDFCMONEY")
-        print(f"{yellow}Enter ",newperiod," Emerd Price :")
+        print(f"{yellow}Enter ",newperiod," {green}Emerd {yellow}Price :")
         current=input()
         current=int(current)
         chalo()
-        print("\n---------Successfully hacked the server-----------")
+        print(f"\n---------{green}Successfully hacked the server-----------")
         chalo1()
-        print("\n---------Successfully got the colour -------------")
+        print("\n---------{red}Successfully got the colour -------------")
         print('\n')
         last2=str(current)[-2:]
         #samjha_maadarchod=lawde_time_pe_khel(last2)
         if(newperiod%2==0):
             sum=getSum(current)
             if(sum%2==0):
-                print(newperiod+1," : 🔴, RED")
+                print(newperiod+1," : 💥🔥💥🔴RED🔴💥🔥💥")
             else:
-                print(newperiod+1,"  : 🟢, GREEN")
+                print(newperiod+1,"  : 💥🔥💥🟢GREEN🟢💥🔥💥")
         else:
             sum=getSum(current)
             if(sum%2==0):
-                print(newperiod+1,"   : 🔴, RED")
+                print(newperiod+1,"   : 💥🔥💥🟢GREEN🟢💥🔥💥")
             else:
-                print(newperiod+1,"   : 🟢, GREEN")
+                print(newperiod+1,"   : 💥🔥💥🔴RED🔴💥🔥💥")
         newperiod+=1
         numbers.append(current)
-        y=input("Do you want to play : Press 1 and 0 to exit \n")
+        y=input(f"Do you want to play : {green}Press 1 , {neon}or {Red}0 to exit{nc} \n")
         if(y==0):
             y=False
         if (len(numbers)>11):
             clear()
             system('figlet Thank you!!')
-            print("Play on next specified time!!")
-            print("-----------Current Time UP----------")
-            sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
+            print(f"{red}Play on next specified {neon}time!!")
+            print("-----------Time'z UP----------")
+            sys.exit(f" \n \n \n {red}Contact {neon}on Telegram {yellow}@IDFCMONEY")
             #print(numbers)
   
 
@@ -151,11 +152,10 @@ if(expirydate>today):
         print("----------Your play time-----------")
         #print("31st Aug 2021, 11:00 AM- 11:30 AM")
         #print("31st Aug 2021, 02:00 PM- 02:30 PM")
-        print("23rd Sept 2021, 04:00 PM- 04:30 PM")
+        print(f"{green}3rd   {neon}Feb 2021, {yellow}06:00 PM- {red}06:30 PM")
         #print("31st Aug 2021, 08:00 PM- 08:30 PM")
-        print("Please play on the given time, and ")
-        print("If you think it is an error contact")
-        print(" admin on telegram @IDFCMONEY ")
+        print("Please play on the given time ")
+        print(f"{red}Contact {neon}on Telegram {yellow}@IDFCMONEY")
 
 
 
@@ -167,12 +167,12 @@ else:
         # for mac and linux(here, os.name is 'posix')
         else:
             _ = system('clear')
-    code="SKBhai"
-    code1="LIFEISLOL"
-    code2="SUCK"
-    test="PROFIT"
-    night="GENTING02"
-    nextday="PLEASEW8"
+    Java="script"
+    Alpha="3rdscript"
+    Beta="2ndscript"
+    Gamma="7thscript"
+    Delta="5thscript"
+    Sumall="1stscript"
     banner='figlet GentingMall|lolcat'
     rava=0
     now = datetime.datetime.now()
@@ -237,18 +237,18 @@ else:
         
         
         print(f"{neon}Enter Your Password Or Upi Reference for Opening Hack ")
-        bhai=input(": ")
-        if(bhai==code or bhai==test or bhai==code1 or bhai==code2):
+        machee=input(": ")
+        if(machee==Java or machee==Alpha or machee==Beta or machee==Gamma):
             clear()
             system(banner)
-            print("---------------Your play time----------------")
+            print("=================Your play time================")
             print("4th Jan 2022,  08:30 PM- 09:00 PM")
             print("5th Jan 2022, 08:30 PM- 09:00 PM")
             print("6th Jan 2022, 08:30 PM- 09:00 PM")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
             print(f"{neon}On Telegram {red}@IDFCMONEY")
-            print("*---------*----------*-----------*----------*")
-            print("...............Booting Hack .................")
+            print("===============================================")
+            print("......^_^........Booting Hack ........>_<......")
             time.sleep(10)
             period=rava
             hero()
@@ -259,23 +259,23 @@ else:
             #print(" 40000 INR , because in this week 2 days off " )
             #print("Thank You!! ")
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
-        elif(bhai==nextday):
+        elif(machee==Delta):
             clear()
             system(banner)
-            print("---------------Your play time----------------")
-            print("4th Jan 2022,  08:30 PM- 09:00 PM")
-            print("5th Jan 2022, 08:30 PM- 09:00 PM")
-            print("6th Jan 2022, 08:30 PM- 09:00 PM")
+            print("=================Your play time================")
+            print("4th Feb 2022,  08:30 PM- 09:00 PM")
+            print("5th Feb 2022, 08:30 PM- 09:00 PM")
+            print("6th Feb 2022, 08:30 PM- 09:00 PM")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
             print(f"{neon}On Telegram {red}@IDFCMONEY")
-            print("*---------*----------*-----------*----------*")
-            print("...............Booting Hack .................")      
+            print("===============================================")
+            print(".......^_^.....Booting Hack .........>_<......")      
             time.sleep(10)
             period=rava
             hero()
             #period("Sorry too many people(>20) using hack in same time ")
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
-        elif(bhai==night):
+        elif(machee==Sumall):
             clear()
             system(banner)
             period=410
