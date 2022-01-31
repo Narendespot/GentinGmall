@@ -101,21 +101,21 @@ def hero():
             sum=getSum(current)
             if(sum%2==0):
                 print(f"{newred}Play 100-1000")
-                print(newperiod+1,f" : 💥🔥💥🔴RED🔴💥🔥💥{nc}")
+                print(newperiod+1," : 💥🔥💥🔴RED🔴💥🔥💥")
             else:
                 print(f"{newgreen}Play 10-100")
-                print(newperiod+1,f"  : 💥🔥💥🟢GREEN🟢💥🔥💥{nc}")
+                print(newperiod+1,"  : 💥🔥💥🟢GREEN🟢💥🔥💥")
         else:
             sum=getSum(current)
             if(sum%2==0):
                 print(f"{newgreen}Play 100-1000")
-                print(newperiod+1,f"   : 💥🔥💥🟢GREEN🟢💥🔥💥{nc}")
+                print(newperiod+1,"   : 💥🔥💥🟢GREEN🟢💥🔥💥")
             else:
                 print(f"{newred}Play 10-100")
-                print(newperiod+1,f"   : 💥🔥💥🔴RED🔴💥🔥💥{nc}")
+                print(newperiod+1,"   : 💥🔥💥🔴RED🔴💥🔥💥")
         newperiod+=1
         numbers.append(current)
-        y=input(f"Do you want to play : {green}Press 1 , {neon}or {Red}0 to exit{nc} \n")
+        y=input(f"Do you want to play : {green}Press 1 , {neon}or {red}0 to exit{nc} \n")
         if(y==0):
             y=False
         if (len(numbers)>11):
