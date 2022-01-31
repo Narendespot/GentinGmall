@@ -87,13 +87,13 @@ def hero():
         clear()
         system(banner)
         print(f"{red}Contact me on telegram @IDFCMONEY")
-        print(f"{yellow}Enter ",newperiod," {green}Emerd {yellow}Price :")
+        print(f"{yellow}Enter ",newperiod, f"{green}Emerd {yellow}Price :")
         current=input()
         current=int(current)
         chalo()
-        print(f"\n---------{green}Successfully hacked the server-----------")
+        print(f"\n{green}---------Successfully hacked the server-----------")
         chalo1()
-        print(f"\n---------{red}Successfully got the colour -------------")
+        print(f"\n{red}---------{red}Successfully got the colour -------------")
         print('\n')
         last2=str(current)[-2:]
         #samjha_maadarchod=lawde_time_pe_khel(last2)
@@ -101,18 +101,18 @@ def hero():
             sum=getSum(current)
             if(sum%2==0):
                 print(f"{newred}Play 100-1000")
-                print(newperiod+1," : 💥🔥💥🔴RED🔴💥🔥💥")
+                print(newperiod+1,f" : 💥🔥💥🔴RED🔴💥🔥💥{nc}")
             else:
                 print(f"{newgreen}Play 10-100")
-                print(newperiod+1,"  : 💥🔥💥🟢GREEN🟢💥🔥💥")
+                print(newperiod+1,f"  : 💥🔥💥🟢GREEN🟢💥🔥💥{nc}")
         else:
             sum=getSum(current)
             if(sum%2==0):
                 print(f"{newgreen}Play 100-1000")
-                print(newperiod+1,"   : 💥🔥💥🟢GREEN🟢💥🔥💥")
+                print(newperiod+1,f"   : 💥🔥💥🟢GREEN🟢💥🔥💥{nc}")
             else:
                 print(f"{newred}Play 10-100")
-                print(newperiod+1,"   : 💥🔥💥🔴RED🔴💥🔥💥")
+                print(newperiod+1,f"   : 💥🔥💥🔴RED🔴💥🔥💥{nc}")
         newperiod+=1
         numbers.append(current)
         y=input(f"Do you want to play : {green}Press 1 , {neon}or {Red}0 to exit{nc} \n")
