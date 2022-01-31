@@ -89,21 +89,25 @@ def hero():
         chalo()
         print(f"\n---------{green}Successfully hacked the server-----------")
         chalo1()
-        print("\n---------{red}Successfully got the colour -------------")
+        print(f"\n---------{red}Successfully got the colour -------------")
         print('\n')
         last2=str(current)[-2:]
         #samjha_maadarchod=lawde_time_pe_khel(last2)
         if(newperiod%2==0):
             sum=getSum(current)
             if(sum%2==0):
+                print(Play 100-1000)
                 print(newperiod+1," : 💥🔥💥🔴RED🔴💥🔥💥")
             else:
+                print(Play 10-100)
                 print(newperiod+1,"  : 💥🔥💥🟢GREEN🟢💥🔥💥")
         else:
             sum=getSum(current)
             if(sum%2==0):
+                print(Play 100-1000)
                 print(newperiod+1,"   : 💥🔥💥🟢GREEN🟢💥🔥💥")
             else:
+                print(Play 10-100)
                 print(newperiod+1,"   : 💥🔥💥🔴RED🔴💥🔥💥")
         newperiod+=1
         numbers.append(current)
