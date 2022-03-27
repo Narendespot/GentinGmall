@@ -81,7 +81,7 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet GentingMall|lolcat'
+    banner='figlet GentingMall'
     numbers=[]
     while(y):
         clear()
@@ -153,7 +153,7 @@ if(expirydate>today):
             period=360
             hero()
     else:
-        banner='figlet GentingMall|lolcat'
+        banner='figlet GentingMall'
         system(banner)
         print(f"{red}Hi!! Thanks for buying the hack")
         #print("Hi! thanks for trying our DEMO")
@@ -181,7 +181,7 @@ else:
     Gamma="7thscript"
     Delta="5thscript"
     Sumall="1stscript"
-    banner='figlet GentingMall|lolcat'
+    banner='figlet GentingMall'
     rava=0
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
@@ -291,7 +291,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         else:
             clear()
-            banner='figlet GentingMall|lolcat'
+            banner='figlet Santosh!!'
             system(banner)
             print("Incorrect Activation Code :")
      
